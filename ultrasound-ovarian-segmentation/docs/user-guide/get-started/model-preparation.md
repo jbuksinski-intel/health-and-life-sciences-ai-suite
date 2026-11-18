@@ -321,5 +321,5 @@ Expected on the full validation split:
 | Transformers | Apache-2.0 | `ds2net` model preparation only |
 | OpenVINO™ / OpenCV | Apache-2.0 | runtime |
 
-See [third_party_programs_ultrasound-ovarian-segmentation.txt](https://github.com/open-edge-platform/health-and-life-sciences-ai-suite/blob/main/ultrasound-ovarian-segmentation/third_party_programs_ultrasound-ovarian-segmentation.txt)
+See [third_party_programs_ultrasound-ovarian-segmentation.txt](https://github.com/open-edge-platform/health-and-life-sciences-ai-suite/blob/release-2026.3.0/ultrasound-ovarian-segmentation/third_party_programs_ultrasound-ovarian-segmentation.txt)
 for the full notices.
