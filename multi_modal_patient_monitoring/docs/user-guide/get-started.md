@@ -12,7 +12,7 @@ Ensure your environment meets the [System Requirements](./get-started/system-req
 
 Go to the target directory of your choice and clone the suite.
 For current development sources, use the standalone repository on `main`:
-To learn more on partial cloning, check the [Repository Cloning guide](https://docs.openedgeplatform.intel.com/dev/OEP-articles/contribution-guide.html#repository-cloning-partial-cloning).
+To learn more on partial cloning, check the [Repository Cloning guide](https://docs.openedgeplatform.intel.com/2026.3/OEP-articles/contribution-guide.html#repository-cloning-partial-cloning).
 
 ```bash
 git clone --filter=blob:none --sparse --branch main https://github.com/open-edge-platform/health-and-life-sciences-ai-suite.git
